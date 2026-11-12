@@ -1,10 +1,9 @@
-
-import CounterTheme from "./component/CounterTheme";
+import RegisterForm from "./component/RegisterForm";
 
 function App() {
   return (
     <div>
-      <CounterTheme />
+      <RegisterForm />
     </div>
   );
 }
