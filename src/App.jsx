@@ -1,13 +1,11 @@
-import React from "react";
-import TicTacToe from "./component/TicTacToe";
+import UserDashboard from "./component/UserDashboard";
 
 function App() {
-
-    return (
-        <div>
-            <TicTacToe />
-        </div>
-    );
+  return (
+    <div>
+      <UserDashboard />
+    </div>
+  );
 }
 
 export default App;
